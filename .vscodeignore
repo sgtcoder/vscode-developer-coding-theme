@@ -1,0 +1,7 @@
+*.code-workspace
+*.sh
+*.vsix
+.gitignore
+.gitattributes
+.vscode-test/**
+.vscode/**
