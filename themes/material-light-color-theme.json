@@ -18,12 +18,10 @@
 		"editorWidget.background": "#F5F5F5",
 		"editorWidget.border": "#E0E0E0",
 		"widget.shadow": "#E0E0E0",
-		"editorIndentGuide.activeBackground": "#BDBDBD",
-		
+		"editorIndentGuide.activeBackground1": "#BDBDBD",
 		"tab.inactiveBackground": "#F5F5F5",
 		"sideBar.foreground": "#212121",
 		"sideBar.background": "#F5F5F5",
-		
 		"list.hoverBackground": "#01579B11",
 		"list.inactiveSelectionBackground": "#01579B22",
 		"list.activeSelectionBackground": "#039BE5",
@@ -37,19 +35,16 @@
 		"editorGutter.modifiedBackground": "#1565C088",
 		"editorOverviewRuler.deletedForeground": "#C0392B88",
 		"editorGutter.deletedBackground": "#C0392B88",
-		
 		"statusBar.background": "#0277BD",
 		"statusBar.foreground": "#FAFAFA",
 		"statusBar.debuggingBackground": "#A8601A",
 		"debugIcon.breakpointForeground": "#C0392B",
-		
 		"activityBarBadge.background": "#0277BD",
 		"activityBar.foreground": "#F5F5F5",
 		"scrollbarSlider.background": "#21212121",
 		"input.background": "#FAFAFA",
 		"input.foreground": "#212121",
 		"input.border": "#E0E0E0",
-
 		"terminal.foreground": "#212121",
 		"terminal.ansiBlack": "#212121",
 		"terminal.ansiBlue": "#1565C0",
