@@ -2,7 +2,7 @@
 	"name": "vscode-developer-coding-theme",
 	"displayName": "SgtCoder Developer Coding Theme",
 	"description": "The perfect coding theme.",
-	"version": "1.1.9",
+	"version": "2.0.0",
 	"engines": {
 		"vscode": "^1.80.0"
 	},
@@ -15,12 +15,12 @@
 			{
 				"label": "Coding Light",
 				"uiTheme": "vs",
-				"path": "./themes/material-color-theme.json"
+				"path": "./themes/coding-light-theme.json"
 			},
 			{
 				"label": "Coding Dark",
 				"uiTheme": "vs-dark",
-				"path": "./themes/material-dark-color-theme.json"
+				"path": "./themes/coding-dark-theme.json"
 			}
 		]
 	},
