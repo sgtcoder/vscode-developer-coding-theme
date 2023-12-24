@@ -2,7 +2,7 @@
 	"name": "developer-coding-theme",
 	"displayName": "SgtCoder Developer Coding Theme",
 	"description": "The perfect coding theme.",
-	"version": "2.0.1",
+	"version": "2.0.2",
 	"engines": {
 		"vscode": "^1.80.0"
 	},
