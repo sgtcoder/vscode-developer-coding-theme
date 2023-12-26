@@ -1,7 +1,16 @@
-# sgtcoder.developer-coding-theme README
+# VSCode Developer Coding Theme Readme #
 
-Light and Dark themes with material design colors.
+> - **Extension ID:** sgtcoder.developer-coding-theme
+> - **Last Revised:** 2023-12-26
 
-![alt](https://raw.githubusercontent.com/JonaDuran/Material-Light-Theme/master/example/theme_light.png)
+# Overview #
+> Light and Dark themes with material design colors.
 
-![alt](https://raw.githubusercontent.com/JonaDuran/Material-Light-Theme/master/example/theme_dark.png)
+# Features #
+> There are currently 2 themes.
+
+## Light Theme ##
+![alt](https://raw.githubusercontent.com/sgtcoder/vscode-developer-coding-theme/master/example/coding-light-theme.png)
+
+## Dark Theme ##
+![alt](https://raw.githubusercontent.com/sgtcoder/vscode-developer-coding-theme/master/example/coding-dark-theme.png)
