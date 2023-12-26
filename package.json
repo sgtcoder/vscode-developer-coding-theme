@@ -2,14 +2,14 @@
 	"name": "developer-coding-theme",
 	"displayName": "SgtCoder Developer Coding Theme",
 	"description": "The perfect coding theme.",
-	"version": "2.0.2",
+	"icon": "images/logo.png",
+	"version": "2.0.3",
 	"engines": {
 		"vscode": "^1.80.0"
 	},
 	"categories": [
 		"Themes"
 	],
-	"icon": "icon/icon2.png",
 	"contributes": {
 		"themes": [
 			{
