@@ -3,8 +3,14 @@
 > - **Extension ID:** sgtcoder.developer-coding-theme
 > - **Last Revised:** 2023-12-26
 
+____
+
+<br />
+
 # Overview #
 > Light and Dark themes with material design colors.
+
+<br />
 
 # Features #
 > There are currently 2 themes.
